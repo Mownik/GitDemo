@@ -14,5 +14,6 @@ public class AppiumTest {
 	public void UxApp()
 	{
 		System.out.println("Uxapp");
+		System.out.println("Delete");
 	}
 }
